@@ -37,7 +37,8 @@ One of the most important features of the Random Forest Algorithm is that it can
 ```python
 import matplotlib.pyplot as plt
 from sklearn import datasets
-X,y = datasets.make_blobs(n_samples=100,n_features=2,centers=2,cluster_std=1.05,random_state=2)
+X,y = datasets.make_blobs(n_samples=100,n_features=2,centers=2,
+      cluster_std=1.05,random_state=2)
 fig=plt.figure(figsize=(10,8))
 plt.plot(X[:,0][y==0], X[:,1][y==0],'pc')
 plt.plot(X[:,0][y==1], X[:,1][y==1],'bo')
