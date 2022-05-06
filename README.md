@@ -18,11 +18,12 @@ To write a python program to perform random classification.
 
 
 ## PROGRAM:
-```python
+```
 /* Program to implement random classification.
 Developed by   : SAFA
 Register Number : 212220230040 */
-
+```
+```python
 import matplotlib.pyplot as plt
 from sklearn import datasets
 x,y=datasets.make_blobs(n_samples=100,n_features=2,centers=2,
