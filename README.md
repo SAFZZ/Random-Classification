@@ -17,15 +17,6 @@ To write a python program to perform random classification.
 4. Final output is considered based on Majority Voting or Averaging for Classification and regression respectively.
 
 
-
-
-
-
-
-
-
-
-
 ## PROGRAM:
 ```python
 /* Program to implement random classification.
