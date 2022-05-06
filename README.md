@@ -29,11 +29,6 @@ One of the most important features of the Random Forest Algorithm is that it can
 
 ## Program:
 
-
-### Program to implement random classification.
-### Developed by   : S.SAFA
-### RegisterNumber :  212220230040
-
 ```python
 import matplotlib.pyplot as plt
 from sklearn import datasets
