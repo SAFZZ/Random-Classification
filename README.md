@@ -50,9 +50,6 @@ plt.title("Random Classification Data with 2 classes")
 ```
 
 ## Output:
-
 ![nn1](https://user-images.githubusercontent.com/75234912/163917305-f12f6229-8153-4f30-ad60-efa8564194e5.png)
-
-
 ## Result:
 Thus the random classifier was successfully implemented using python programming.
