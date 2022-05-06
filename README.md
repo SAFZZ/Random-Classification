@@ -19,12 +19,14 @@ To write a python program to perform random classification.
 3. Each decision tree will generate an output.
 4. Final output is considered based on Majority Voting or Averaging for Classification and regression respectively.
 
+
 ## PROGRAM:
 ```python
 
-#Program to implement random classification.
-#Developed by   : SAFA
-#Register Number : 212220230040
+/*Program to implement random classification.
+Developed by   : SAFA
+Register Number : 212220230040
+*/
 
 
 import matplotlib.pyplot as plt
